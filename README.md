@@ -1,2 +1,2 @@
-<# apex_domain>
-<https://kuta.co>
+# apex_domain
+https://kuta.co
